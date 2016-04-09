@@ -24,7 +24,7 @@ See it in action at http://circular-progress.meteor.com
 Install _circular-progress_ via meteorite:
 
 ```shell
-mrt add circular-progress
+meteor add jorisroling:circular-progress
 ```
 
 You interact with circular-progress via session variables, so if you don't care much about styling, animations or transitions, here's a quick way to start:
